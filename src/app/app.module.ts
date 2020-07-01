@@ -7,6 +7,7 @@ import { NavComponent } from './nav/nav.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { SearchUserComponent } from './search-user/search-user.component';
 import { UserDataComponent } from './user-data/user-data.component';
+import { UserRepoListComponent } from './user-repo-list/user-repo-list.component';
 
 
 @NgModule({
@@ -16,6 +17,7 @@ import { UserDataComponent } from './user-data/user-data.component';
     NotFoundComponent,
     SearchUserComponent,
     UserDataComponent,
+    UserRepoListComponent,
   
   ],
   imports: [
