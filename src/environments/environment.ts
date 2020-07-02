@@ -4,8 +4,7 @@
 
 export const environment = {
   production: false,
-  accessToken: "de2171a35b269455f8b0b252a9c4dd3563f70b16",
-  apiUrl:"https://api.github.com/users/",
+  accessToken:'cc6054b51c81f6c2900babfff9f3126ad0e05708',
 };
 /*
  * For easier debugging in development mode, you can import the following file
