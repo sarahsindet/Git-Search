@@ -1,6 +1,11 @@
 # GitSearch
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+
+
+## Codebeat
+
+[![codebeat badge](https://codebeat.co/badges/3c7661e8-bb2b-49fe-9efb-d0270755bb27)](https://codebeat.co/projects/github-com-sarahsindet-gitsearch-master)
 
 ## Development server
 
@@ -14,6 +19,16 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
+
+## Technologies used
+
+Html5
+Css3
+Typescript
+Bootstrap
+Angular
+Github Api's
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
@@ -25,3 +40,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## License 
+[License](License) 
