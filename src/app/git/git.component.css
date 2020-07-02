@@ -1,3 +1,14 @@
+@import "~bootstrap/dist/css/bootstrap.css";
 body{
-    background-image: url(../../assets/images.jpeg);
+    background-image: url(../../assets/san-francisco-ca-usa-feb-260nw-1647067840.webp);
+    background-size: cover;
+    height: 100rem;
+}
+#emailHelp{
+    color: red;
+background-color: white;
+}
+form-text text-muted{
+    color: red;
+    background-color: white;
 }
